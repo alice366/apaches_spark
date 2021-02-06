@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../:\Projects\IdeaProjects\spark\.idea/dataSources/
+/../../../../../:\Projects\IdeaProjects\spark\target/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
